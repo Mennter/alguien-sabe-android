@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">¿Alguien sabe?</string>
+
+    <string name="main_usuario">Usuario</string>
+    <string name="main_password">Contraseña</string>
+    <string name="main_ingresar">Ingreso</string>
+    <string name="main_registro">Registrarse</string>
+
+    <string name="usuario_usuario">Usuario</string>
+    <string name="usuario_mail">Mail</string>
+    <string name="usuario_password">Contraseña</string>
+    <string name="usuario_password_reescribir">Confirmar Contraseña</string>
+    <string name="usuario_guardar">Guardar</string>
+
+    <string name="usuario_usuario_validacion">El usuario no puede estar vacio</string>
+    <string name="usuario_usuario_validacion_server">El usuario ya existe en la plataforma</string>
+    <string name="usuario_usuario_validacion_server_error">No se pudo verificar la existencia de el usuario</string>
+    <string name="usuario_mail_validacion">El mail no puede estar vacio</string>
+    <string name="usuario_password_validacion">La contraseña no puede estar vacia</string>
+    <string name="usuario_password_reescribir_validacion">La confirmacion de la contraseña no puede estar vacia</string>
+    <string name="usuario_password_reescribir_validacion_iguladad">Ambas contraseña no son iguales</string>
+    <string name="usuario_mail_validacion_regexp">El mail no es valido</string>
+
+    <string name="preguntas_buscar">Buscar</string>
+    <string name="preguntas_cerrar_sesion">Cerrar Sesion</string>
+
+
+    <string-array name="nueva_pregunta_categorias_lista">
+        <item>Sin Categoria</item>
+        <item>Salud</item>
+        <item>Tecnologia</item>
+        <item>Deportes</item>
+        <item>Estudio</item>
+    </string-array>
+
+    <string name="nueva_pregunta_categoria">Categoria</string>
+    <string name="nueva_pregunta_texto">Pregunta</string>
+    <string name="nueva_pregunta_contenido">Contenido</string>
+    <string name="nueva_pregunta_guardar">Preguntar</string>
+    <string name="nueva_pregunta_exito">Se ha guardado la pregunta correctamente</string>
+
+
+
+    <string name="pregunta_editar">Editar</string>
+    <string name="pregunta_comentar">Escribe tu comentario</string>
+    <string name="pregunta_guardar_comentario">Enviar</string>
+
+
+    <string name="error_bad_request">Error en la consulta</string>
+    <string name="error_unautorized">La sesion expiro, porfavor ingrese nuevamente</string>
+    <string name="error_not_found">No se encontro el recurso</string>
+    <string name="error_internal_server">Error en el servidor, intente nuevamente en unos minutos</string>
+    <string name="error_unknown">Ocurrio un error inesperado</string>
+    <string name="error_connection">Error en la conexión</string>
+
+
+
+</resources>
